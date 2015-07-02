@@ -111,6 +111,7 @@
 [Learn Cocoa and iOS Development Forum](http://forum.learncocoa.org) | [Learn Cocoa on the Mac](http://www.amazon.com/Learn-Cocoa-Mac-Jack-Nutting/dp/1430245425) 和 [Beginning iOS 7 Development](http://www.amazon.com/Beginning-iOS-Development-Exploring-SDK/dp/143026022X) 这两本书籍的官方论坛, 用户活跃度较高
 [Apple Developer Forums](http://devforums.apple.com) | 苹果官方的开发者论坛
 [Swiftist](http://www.swiftist.org) | Swift 中文社区
+[Swift](http://geek.csdn.net/forum/12) | Swift 小组，目前正在建设，分享关于 Swift 的项目与动态
 
 ## 工具/插件
 
@@ -234,6 +235,7 @@
 - [App 开发日报](http://app.memect.com)
 - [开发者头条](http://toutiao.io)
 - [码农周刊](http://weekly.manong.io)
+- [极客头条](http://geek.csdn.net)
 
 ## 贡献者
 
